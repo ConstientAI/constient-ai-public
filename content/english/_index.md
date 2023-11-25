@@ -38,14 +38,18 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/hugoplate"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Why Choose ConstientAI for your Project"
     image: "/images/service-3.png"
     content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Nimble and Agile** Our compact size allows for unmatched agility and flexibility, adapting swiftly to your unique needs and market changes."
+      - "**Rapid Execution** Experience the advantage of quick strategy-to-execution, accelerating your journey towards AI-driven success."
+      - "**Creative Innovators** We champion creative problem-solving, delivering innovative and unique AI solutions that set you apart."
+      - "**Expertise Meets Execution** Our team combines high-end AI expertise with practical execution skills, ensuring real-world applicability and seamless integration."
+      - "**Tailored Solutions** Every solution is crafted to fit your specific challenges and goals, ensuring a truly personalized AI strategy."
+      - "**Continuous Learning** We stay ahead in the fast-evolving AI landscape, bringing you the most advanced and efficient solutions."
+      - "**Transparent Collaboration** Working with us feels like an extension of your team, with a commitment to openness and joint decision-making."
+      - "**Results-Driven** Our focus is on delivering measurable outcomes, whether it's boosting efficiency, cutting costs, or driving revenue growth."
     button:
       enable: false
       label: ""
