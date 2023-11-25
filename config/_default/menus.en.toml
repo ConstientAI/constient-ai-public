@@ -1,0 +1,53 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+parent = "About"
+name = "Company"
+url = "company/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Sales"
+url = "solutions/sales/"
+weight = 3
+
+[[main]]
+
+[[main]]
+parent = "Services"
+weight = 4
+name = "Consulting"
+
+[[main]]
+parent = "Resources"
+name = "Blog"
+url = "blog/"
+
+[[main]]
+parent = "About"
+name = "Contact"
+url = "contact/"
+
+[[main]]
+parent = "Resources"
+name = "Authors"
+url = "authors/"
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
