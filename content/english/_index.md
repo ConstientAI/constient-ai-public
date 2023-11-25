@@ -2,8 +2,8 @@
 # Banner
 banner:
   image: "/images/banner.png"
-  title: "AI Transformation that works"
-  content: "ConstientAI provides specialist consulting services and implementation to transform your business through calibrated AI solutions"
+  title: "Artificial Intelligence"
+  content: "Slash costs and boost revenue. Leverage our expertise in AI to radically transform your business."
   button:
     enable: true
     label: "Request a proposal"
@@ -11,28 +11,28 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Driving down costs"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "One of our key goals is to bring the promise of AI home to you by working collaboratively with you to achieve measurable reductions in your cost of operations"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "**Automating Routine Tasks** By automating routine and repetitive tasks, we help you reduce labor costs and minimize human error, leading to increased operational efficiency."
+      - "**Optimizing Resource Allocation** Our AI solutions provide insights for optimal resource allocation, reducing waste and lowering operational costs."
+      - "**Predictive Maintenance** Implementing AI for predictive maintenance in manufacturing and other sectors can significantly reduce downtime and maintenance costs."
+      - "**Energy Efficiency** AI-driven energy management systems can optimize energy use, leading to substantial cost savings for your business."
+
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Boost Revenues"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "We use AI to unlock new opportunities, creating force-multipliers that result in a higher topline year on year"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Enhanced Customer Experiences** We use AI to personalize customer experiences, leading to increased customer satisfaction and loyalty, and ultimately, higher revenue."
+      - "**Data-Driven Decision Making** Our AI solutions provide deep insights from your data, enabling informed decision-making and identifying new revenue-generating opportunities."
+      - "**Market Trend Analysis** AI-driven market analysis helps in understanding emerging trends, allowing your business to stay ahead of the curve and capitalize on new markets."
+      - "**Optimizing Pricing Strategies** AI can dynamically adjust pricing based on market demand, competition, and customer behavior, maximizing your revenue potential."
     button:
       enable: true
       label: "Get Started Now"

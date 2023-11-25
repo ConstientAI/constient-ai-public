@@ -1,16 +1,19 @@
 .bg-gradient {
-  @apply dark:from-darkmode-theme-light dark:to-darkmode-body bg-gradient-to-b from-[rgba(249,249,249,1)] from-[0.53%] to-white to-[83.28%];
+  @apply dark:from-darkmode-theme-light dark:to-darkmode-body;
 }
 
 .rounded-sm {
   @apply rounded-[4px];
 }
+
 .rounded {
   @apply rounded-[6px];
 }
+
 .rounded-lg {
-  @apply rounded-[12px];
+  @apply rounded-[32px];
 }
+
 .rounded-xl {
   @apply rounded-[16px];
 }
