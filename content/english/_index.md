@@ -9,6 +9,11 @@ banner:
     label: "Request a proposal"
     link: "https://calendly.com/constient-ai/30min"
 
+intro:
+  title: "The future-proofing firm"
+  description: ""
+  content: "One of our key goals is to bring the promise of AI home to you by working collaboratively with you to achieve measurable reductions in your cost of operations"
+
 # Features
 features:
   - title: "Driving down costs"
@@ -23,7 +28,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "https://calendly.com/constient-ai/30min"
 
   - title: "Boost Revenues"
     image: "/images/service-2.png"
@@ -35,12 +40,12 @@ features:
       - "**Optimizing Pricing Strategies** AI can dynamically adjust pricing based on market demand, competition, and customer behavior, maximizing your revenue potential."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Get in touch"
+      link: "https://calendly.com/constient-ai/30min"
 
-  - title: "Why Choose ConstientAI for your Project"
+  - title: "The ConstientAI Advantage"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "With us, you can move quickly, executing transformative projects that clearly demonstrate (to your stakeholders) your commitment to future-proofing your business."
     bulletpoints:
       - "**Nimble and Agile** Our compact size allows for unmatched agility and flexibility, adapting swiftly to your unique needs and market changes."
       - "**Rapid Execution** Experience the advantage of quick strategy-to-execution, accelerating your journey towards AI-driven success."

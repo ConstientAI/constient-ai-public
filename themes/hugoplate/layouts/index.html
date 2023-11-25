@@ -30,9 +30,31 @@
 {{ end }}
 <!-- /Banner -->
 
+<!-- Intro -->
+{{ with .Params.intro }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-8 -mt-[10px] mb-8 text-center">
+        <h3 class="mb-4">
+          {{ .title | markdownify }}
+        </h3>
+        <p class="mb-8 font-secondary font-thin text-lg">
+          {{ .description | markdownify }}
+        </p>
+        <p class="mb-8 font-secondary font-normal text-lg">
+          {{ .content | markdownify }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /intro -->
+
 <!-- Features -->
 {{ range $i, $e:= .Params.features }}
-<section class="section-sm {{ if (modBool $i 2) }}bg-gradient{{ end }}">
+<section class="section-sm border-b-[1px] border-slate-300 {{ if (modBool $i 2) }}bg-gradient{{ end }}">
   <div class="container">
     <div class="row items-center justify-between">
       <div class="mb:md-0 {{ if not (modBool $i 2) }}
