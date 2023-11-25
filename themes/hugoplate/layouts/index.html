@@ -1,7 +1,7 @@
 {{ define "main" }}
 <!-- Banner -->
 {{ with .Params.banner }}
-<section class="section">
+<section class="section !pb-6">
   <div class="container">
     <div class="row justify-center">
       <div class="lg:col-8 mb-0 -mt-[148px] text-center">
@@ -32,10 +32,10 @@
 
 <!-- Intro -->
 {{ with .Params.intro }}
-<section class="section">
+<section class="p-8 border-b-[1px] border-slate-300">
   <div class="container">
     <div class="row justify-center">
-      <div class="lg:col-8 -mt-[10px] mb-8 text-center">
+      <div class="lg:col-8 bg-white rounded-[10px] px-10 pt-8 text-center">
         <h3 class="mb-4">
           {{ .title | markdownify }}
         </h3>

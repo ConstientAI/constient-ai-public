@@ -11,8 +11,8 @@ banner:
 
 intro:
   title: "The future-proofing firm"
-  description: ""
-  content: "One of our key goals is to bring the promise of AI home to you by working collaboratively with you to achieve measurable reductions in your cost of operations"
+  description: "We're a new division of Constient Global Solutions (CGS), dedicated to accelerating the pace of AI transformation in our client's businesses. Incorporated in 2012, CGS is a software services company headquartered in India with offices across Europe and North America."
+  content: ""
 
 # Features
 features:
