@@ -10,9 +10,9 @@ banner:
     link: "https://calendly.com/constient-ai/30min"
 
 intro:
-  title: "The future-proofing firm"
-  description: "We're a new division of Constient Global Solutions (CGS), dedicated to accelerating the pace of AI transformation in our client's businesses. Incorporated in 2012, CGS is a software services company headquartered in India with offices across Europe and North America."
-  content: ""
+  title: "ConstientAI"
+  description: "The future-proofing firm"
+  content: "We're a new division of Constient Global Solutions (CGS), dedicated to accelerating the pace of AI transformation in our client's businesses. Incorporated in 2012, CGS is a software services company headquartered in India with offices across Europe and North America."
 
 # Features
 features:

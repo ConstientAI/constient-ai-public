@@ -32,11 +32,11 @@
 
 <!-- Intro -->
 {{ with .Params.intro }}
-<section class="p-8 border-b-[1px] border-slate-300">
+<section class="section p-8 border-b-[1px] lg:!bg-slate-800 sm:!bg-slate-800 text-white border-slate-300">
   <div class="container">
     <div class="row justify-center">
-      <div class="lg:col-8 bg-white rounded-[10px] px-10 pt-8 text-center">
-        <h3 class="mb-4">
+      <div class="lg:col-8 px-10 pt-8 text-center">
+        <h3 class="mb-4 text-white">
           {{ .title | markdownify }}
         </h3>
         <p class="mb-8 font-secondary font-thin text-lg">
