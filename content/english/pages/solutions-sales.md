@@ -4,6 +4,7 @@ title: "Elevate Your Sales Game"
 meta_title: "ConstientAI: Revolutionizing Sales Strategies"
 # meta description
 description: "Transform Your Sales Approach with Cutting-Edge AI"
+image: "/images/waves.svg"
 # save as draft
 draft: false
 ---
