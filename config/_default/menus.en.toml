@@ -2,43 +2,119 @@
 
 # main menu
 [[main]]
-parent = "Company"
-name = "About Us"
-url = "about/"
+parent = "Solutions"
+name = "Sales"
+url = "solutions-sales/"
 weight = 2
 
 [[main]]
 parent = "Solutions"
-name = "Sales"
-url = "solutions-sales/"
-weight = 3
+name = "E-commerce"
+url = "solutions-e-commerce/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Healthcare"
+url = "solutions-healthcare/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Finance"
+url = "solutions-finance/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Real Estate"
+url = "solutions-real-estate/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Retail"
+url = "solutions-retail/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Travel"
+url = "solutions-travel/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Governance"
+url = "solutions-governance/"
+weight = 2
+
+
+[[main]]
+parent = "Solutions"
+name = "Energy"
+url = "solutions-energy/"
+weight = 2
+
+
+[[main]]
+parent = "Solutions"
+name = "Support"
+url = "solutions-support/"
+weight = 2
+
+
+[[main]]
+parent = "Solutions"
+name = "Advertising"
+url = "solutions-advertising/"
+weight = 2
+
+
+[[main]]
+parent = "Solutions"
+name = "Telecom"
+url = "solutions-telecom/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Fashion"
+url = "solutions-fashion/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Human Resources"
+url = "solutions-hr/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Manufacturing"
+url = "solutions-manufacturing/"
+weight = 2
+
+[[main]]
+parent = "Solutions"
+name = "Education"
+url = "solutions-education/"
+weight = 2
 
 [[main]]
 parent = "Services"
-weight = 4
+weight = 1
 name = "Consulting"
 
 [[main]]
-parent = "Resources"
 name = "Blog"
 url = "blog/"
+weight = 6
 
 [[main]]
-parent = "Company"
-name = "Contact"
-url = "contact/"
-
-[[main]]
-parent = "Company"
-name = "Careers"
-url = "careers/"
-
-
-[[main]]
-parent = "Resources"
-name = "Authors"
-url = "authors/"
-
+name = "About Us"
+url = "about"
+weight = 4
 
 # footer menu
 [[footer]]
