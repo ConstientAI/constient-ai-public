@@ -32,12 +32,12 @@ input#nav-toggle:checked~#nav-menu {
   @apply text-center lg:text-left;
 }
 
-// .nav-item {
-//   @apply mx-3;
-// }
+.nav-item {
+  @apply mx-3;
+}
 
 .nav-link {
-  @apply text-dark hover:text-primary dark:text-darkmode-dark block p-0 font-semibold text-xs uppercase tracking-widest transition;
+  @apply text-dark hover:text-primary dark:text-darkmode-dark block p-0 font-semibold text-sm uppercase tracking-widest transition py-3;
 }
 
 .nav-dropdown {
