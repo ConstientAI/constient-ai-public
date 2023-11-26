@@ -160,20 +160,16 @@
 <!-- /Testimonials -->
 
 {{ with .Params.hook }}
-<section class="section p-18 border-b-[1px] bg-slate-100/50 text-slate-900 border-slate-300">
+<section class="section !p-5 border-b-[1px] bg-white text-slate-900 border-slate-300">
   <div class="container">
     <div class="row justify-center">
-      <div class="lg:col-10 px-10 pt-8 text-center">
-        <h2 class="mb-12 text-slate-900">
-          {{ .title | markdownify }}
-        </h2>
-        <div
-          class="mb-12 text-2xl lg:text-3xl xl:text-4xl font-secondary font-thin leading-10 xl:leading-10 tracking-wide text-slate-900">
+      <div class="lg:col-10 px-10 pt-8 mb-8 text-center">
+        <div class="mb-4 text-xl font-secondary font-thin leading-8 tracking-wide text-slate-900">
           {{ .description | markdownify }}
         </div>
         {{ with .button }}
         {{ if .enable }}
-        <a class="btn btn-primary bg-purple-100 text-purple-800 mt-6" href="{{ .link | absURL }}">
+        <a class="btn btn-primary py-4 px-8 text-lg bg-purple-100 text-purple-800 mt-6" href="{{ .link | absURL }}">
           {{ .label }}
           <i class="fa fa-arrow-right pl-2"></i>
         </a>

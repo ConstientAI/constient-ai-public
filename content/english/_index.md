@@ -79,11 +79,11 @@ features:
       link: "https://calendly.com/constient-ai/30min"
 
 hook:
-  title: "Let's go"
-  description: "Lets get you on the road to future-proof"
+  title: "A good time to decide"
+  description: "If you're considering hiring us to help you move into a new AI-leveraged future, remember that the best time to get started was yesterday."
   button:
     enable: true
-    label: "Schedule a consult"
+    label: "Let's get started"
     link: "https://calendly.com/constient-ai/30min"
 
 ---
