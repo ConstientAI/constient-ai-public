@@ -1,10 +1,12 @@
 @tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 @layer base {
   @import "base";
 }
+
+@tailwind components;
+@tailwind utilities;
+
 
 @layer components {
   @import "components";
@@ -26,5 +28,5 @@
 @import "modal";
 @import "notice";
 
-@import "module-overrides";
-@import "custom";
+// @import "module-overrides";
+// @import "custom";

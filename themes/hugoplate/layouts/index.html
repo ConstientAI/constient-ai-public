@@ -32,19 +32,25 @@
 
 <!-- Intro -->
 {{ with .Params.intro }}
-<section class="section p-8 border-b-[1px] lg:!bg-slate-800 sm:!bg-slate-800 text-white border-slate-300">
+<section class="section p-12 border-b-[1px] lg:!bg-slate-800 sm:!bg-slate-800 text-slate-100 border-slate-300">
   <div class="container">
     <div class="row justify-center">
-      <div class="lg:col-8 px-10 pt-8 text-center">
-        <h3 class="mb-4 text-white">
+      <div class="lg:col-10 px-10 pt-8 text-center">
+        <h2 class="mb-12">
           {{ .title | markdownify }}
-        </h3>
-        <p class="mb-8 font-secondary font-thin text-lg">
+        </h2>
+        <h4 class="mb-12 !tracking-wide !leading-7">
           {{ .description | markdownify }}
-        </p>
-        <p class="mb-8 font-secondary font-normal text-lg">
-          {{ .content | markdownify }}
-        </p>
+        </h4>
+        <ul>
+          {{ range .bulletpoints }}
+          <li>
+            <p class="text-justify text-lg mb-4 !tracking-wide !leading-5">
+              {{ . | markdownify }}
+            </p>
+          </li>
+          {{ end }}
+        </ul>
       </div>
     </div>
   </div>
