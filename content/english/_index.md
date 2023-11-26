@@ -78,5 +78,12 @@ features:
       label: "Get in touch"
       link: "https://calendly.com/constient-ai/30min"
 
+hook:
+  title: "Let's go"
+  description: "Lets get you on the road to future-proof"
+  button:
+    enable: true
+    label: "Schedule a consult"
+    link: "https://calendly.com/constient-ai/30min"
 
 ---
