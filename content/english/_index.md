@@ -61,4 +61,22 @@ features:
       enable: false
       label: ""
       link: ""
+
+  - title: "Cutting Edge Technologies at your fingertips"
+    image: "/images/service-4.png"
+    content: "The state-of-the-art changes every fortnight in AI. That's how rapidly this landscape changes. We track and experiment with each new model, technology and stack. So that you don't have to."
+    bulletpoints:
+      - "**Predictive Analytics** Using ML to forecast trends, demand, and customer behavior with high accuracy."
+      - "**Chatbots and Virtual Assistants** Developing sophisticated chatbots for customer service, enhancing user experience and operational efficiency."
+      - "**Advanced Natural Language Understanding**  Utilizing LLMs for deep comprehension of text, enabling sophisticated conversation agents and content analysis tools"
+      - "**Intelligent Automation** Integrating RPA with AI for more intelligent and adaptive business process automation, transcending routine task automation."
+      - "**Cognitive Process Automation** Employing AI to enable RPA systems to handle complex, unstructured data, significantly enhancing operational efficiency."
+      - "**Scenario Analysis and Decision Support** Employing AI to simulate various scenarios and provide prescriptive insights for strategic planning and risk management."
+      - "**Image and Video Analysis** Implementing AI for real-time image and video analysis, applicable in security, retail, and healthcare for pattern recognition and anomaly detection"
+    button:
+      enable: true
+      label: "Get in touch"
+      link: "https://calendly.com/constient-ai/30min"
+
+
 ---

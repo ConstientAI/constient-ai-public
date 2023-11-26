@@ -2,18 +2,16 @@
 
 # main menu
 [[main]]
-parent = "About"
-name = "Company"
-url = "company/"
+parent = "Company"
+name = "About Us"
+url = "about-us/"
 weight = 2
 
 [[main]]
 parent = "Solutions"
 name = "Sales"
-url = "solutions/sales/"
+url = "solutions-sales/"
 weight = 3
-
-[[main]]
 
 [[main]]
 parent = "Services"
@@ -26,9 +24,15 @@ name = "Blog"
 url = "blog/"
 
 [[main]]
-parent = "About"
+parent = "Company"
 name = "Contact"
 url = "contact/"
+
+[[main]]
+parent = "Company"
+name = "Careers"
+url = "careers/"
+
 
 [[main]]
 parent = "Resources"
@@ -43,11 +47,11 @@ url = "about/"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "elements/"
+name = "Resources"
+url = "resources/"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+name = "Careers"
+url = "careers/"
 weight = 3
