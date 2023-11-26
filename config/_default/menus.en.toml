@@ -4,7 +4,7 @@
 [[main]]
 parent = "Company"
 name = "About Us"
-url = "about-us/"
+url = "about/"
 weight = 2
 
 [[main]]

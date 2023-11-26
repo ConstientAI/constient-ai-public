@@ -5,25 +5,29 @@ description: "Don't just take our word for it - hear from some of our satisfied 
 
 # Testimonials
 testimonials:
-  - name: "Aswath Manoharan"
-    designation: "Entrepreneur"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Vidyananda Giretheren"
+    designation: "Founder"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Since 2014, your team has been our trusted offshore development partner,
+and the results have been nothing short of phenomenal. Your dedication to
+excellence and unwavering support have played a significant role in our success,
+and we are truly grateful for that."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Sahil Anand"
+    designation: "Head - Digital Sales"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "I find them to be exceptional in meeting customer demands and timelines. The team approaches the projects with an entrepreneurial mindset and is able to meet the highly challenging deadlines and deliver great results"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Erik Underwood"
+    designation: "CEO"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Constient takes great care in their research approach when solving problems and provides careful options for deployment of each project. The Constient team are very professional and diligent in all of their efforts."
+
+  - name: "Habeeb Ahamed"
+    designation: "Product Manager"
+    avatar: "/images/avatar-sm.png"
+    content: "Deliveries are often received earlier than expected, and you are quick to resolve any issues that arise. Thank you for being our reliable development partner."
 
 # don't create a separate page
 _build:

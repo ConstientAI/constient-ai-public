@@ -56,9 +56,16 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = [
+  "log management",
+  "log monitoring",
+  "logfire",
+  "logging",
+  "observability",
+  "livetail",
+]
+description = "Logfire AI is a log management and monitoring platform that helps you to manage your logs and monitor your applications."
+author = "Vivek Durai"
 image = "images/og-image.png"
 
 
