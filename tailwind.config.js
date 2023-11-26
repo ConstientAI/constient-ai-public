@@ -3,7 +3,6 @@ const path = require("path");
 const themePath = path.join(__dirname, "data/theme.json");
 const themeRead = fs.readFileSync(themePath, "utf8");
 const theme = JSON.parse(themeRead);
-
 let font_base = Number(theme.fonts.font_size.base.replace("px", ""));
 let font_scale = Number(theme.fonts.font_size.scale);
 let h6 = font_base / font_base;

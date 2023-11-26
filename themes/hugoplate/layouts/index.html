@@ -39,9 +39,9 @@
         <h2 class="mb-12">
           {{ .title | markdownify }}
         </h2>
-        <h4 class="mb-12 !tracking-wide !leading-7">
+        <div class="mb-12 font-secondary text-4xl leading-10 tracking-tight text-slate-900">
           {{ .description | markdownify }}
-        </h4>
+        </div>
         <ul>
           {{ range .bulletpoints }}
           <li>
