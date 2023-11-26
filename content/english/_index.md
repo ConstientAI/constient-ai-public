@@ -10,8 +10,8 @@ banner:
     link: "https://calendly.com/constient-ai/30min"
 
 intro:
-  title: "We help you get future-proof."
-  description: "We do this workig collaboratively to adapt your systems to a new AI-aware landscape. We help by rapidly architecting and implementing solutions deep inside your business and software processes that result in immediate and long-term gains."
+  title: "We help you get to future-proof."
+  description: "We rapidly architect and execute solutions deep inside your business and software processes that result in immediate and long-term gains."
   bulletpoints:
     - "We're a new division of Constient Global Solutions (CGS), dedicated to accelerating the pace of AI transformation in our client's businesses. Incorporated in 2012, CGS is a software services company headquartered in India with offices across Europe and North America."
     - "At ConstientAI, we understand that the future of business hinges on the effective integration of AI technologies. Our mission is to empower your organization with AI-driven solutions that not only streamline operations but also open new avenues for revenue generation and growth"
