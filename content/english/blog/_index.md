@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "ConstientAI Resources"
 meta_title: ""
 description: "this is meta description"
 ---
