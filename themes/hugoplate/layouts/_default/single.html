@@ -1,16 +1,45 @@
 {{ define "main" }}
-  {{ partial "page-header" . }}
+{{ with .Params.banner }}
+<section class="section !pb-6">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-12 -mt-[10px] mb-8 text-center">
+        <h1 class="mb-4 text-3xl md:text-5xl lg:text-6xl xl:text-6xl sm:text-3xl">
+          {{ .title | markdownify }}
+        </h1>
+        <div class="mb-0 -mt-[106px] md:-mt-[108px] lg:-mt-[108px] sm:-mt-[108px]  text-center">
+          {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto"
+          ) }}
+        </div>
+        <p class="mb-8 font-secondary font-thin text-lg">
+          {{ .content | markdownify }}
+        </p>
+        {{ with .button }}
+        {{ if .enable }}
+        <a class="btn btn-primary py-4 px-10 uppercase tracking-widest bg-purple-100 text-purple-800"
+          href="{{ .link | absURL }}">
+          {{ .label }}
+          <i class="fa fa-arrow-right pl-2"></i>
+        </a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+<!-- /Banner -->
+<!-- {{ partial "page-header" . }} -->
 
-
-  <section class="section-sm">
-    <div class="container">
-      <div class="row justify-center">
-        <div class="lg:col-10">
-          <div class="content">
-            {{ .Content }}
-          </div>
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="lg:col-10">
+        <div class="content">
+          {{ .Content }}
         </div>
       </div>
     </div>
-  </section>
+  </div>
+</section>
 {{ end }}

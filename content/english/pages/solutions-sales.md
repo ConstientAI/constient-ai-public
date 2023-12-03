@@ -1,12 +1,13 @@
 ---
-title: "Elevate Your Sales Game"
-# meta title
-meta_title: "ConstientAI: Revolutionizing Sales Strategies"
-# meta description
-description: "Transform Your Sales Approach with Cutting-Edge AI"
-image: "/images/waves.svg"
-# save as draft
-draft: false
+banner:
+  image: "/images/waves.svg"
+  title: "Elevate Your Sales Game"
+  content: "Transform Your Sales Approach with Cutting-Edge AI"
+  button:
+    enable: true
+    label: "Request a proposal"
+    link: "https://calendly.com/constient-ai/30min"
+
 ---
 
 At ConstientAI, we specialize in blending AI with sales strategies to create a powerhouse for your revenue generation. Our AI solutions are tailored to empower sales teams, making every interaction count and every decision data-driven.
