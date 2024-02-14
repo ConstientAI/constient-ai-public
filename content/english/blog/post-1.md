@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2023-11-28T05:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Application", "Data"]
-author: "Vivek D"
+author: "Allabaksh Shahul"
 tags: ["consulting", "trends"]
 draft: false
 ---
