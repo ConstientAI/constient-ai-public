@@ -2,7 +2,6 @@
 banner:
   image: "/images/waves.svg"
   title: "Elevate Your Sales Game"
-  content: "Transform Your Sales Approach with Cutting-Edge AI"
   button:
     enable: true
     label: "Request a proposal"
@@ -10,7 +9,7 @@ banner:
 
 ---
 
-At ConstientAI, we specialize in blending AI with sales strategies to create a powerhouse for your revenue generation. Our AI solutions are tailored to empower sales teams, making every interaction count and every decision data-driven.
+We specialize in blending AI with sales strategies to create a powerhouse for your revenue generation. Our AI solutions are tailored to empower sales teams, making every interaction count and every decision data-driven.
 
 #### Intelligent Lead Generation
 

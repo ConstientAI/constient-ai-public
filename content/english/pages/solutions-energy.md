@@ -2,7 +2,7 @@
 banner:
   image: "/images/waves.svg"
   title: "Transforming your energy business with AI"
-  content: "Our solutions are designed to enhance efficiency, sustainability, and profitability in the energy industry."
+  content: ""
   button:
     enable: true
     label: "Request a proposal"
@@ -10,7 +10,7 @@ banner:
 ---
 
 
-Our mission is to revolutionize the energy sector with cutting-edge AI technology. 
+Our mission is to revolutionize the energy sector with cutting-edge AI technology. Our solutions are designed to enhance efficiency, sustainability, and profitability in the energy industry.
 
 ---
 

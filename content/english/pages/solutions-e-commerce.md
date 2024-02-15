@@ -2,7 +2,6 @@
 banner:
   image: "/images/waves.svg"
   title: "Elevate your e-commmerce with AI"
-  content: "Our innovative AI-driven solutions are designed to enhance every aspect of your e-commerce business, from customer experience to backend operations."
   button:
     enable: true
     label: "Request a proposal"
@@ -14,6 +13,7 @@ At Constient.ai we harness the power of AI to revolutionize the e-commerce lands
 ---
 
 ### Why AI for E-commerce?
+
 #### Unleashing the Potential of AI in Online Retail
 
 AI is reshaping the e-commerce industry, offering unparalleled opportunities for growth and innovation. Here's how AI can transform your e-commerce business:
@@ -27,29 +27,35 @@ AI is reshaping the e-commerce industry, offering unparalleled opportunities for
 ---
 
 ### Our AI E-commerce Services
+
 #### Customized AI Solutions for Your E-commerce Needs
 
 At Constient.ai, we offer a range of AI services tailored to the unique needs of the e-commerce sector:
 
 **AI-Powered Personalization**
+
 - Product Recommendations: Implement AI to suggest products based on customer preferences and browsing history.
 - Dynamic Pricing: Use AI to adjust prices in real-time based on demand, competition, and customer behavior.
 
 **AI-Driven Marketing and Sales**
+
 - Customer Segmentation: AI algorithms segment customers for targeted marketing campaigns.
 - Sales Forecasting: Predict future sales trends with AI-driven forecasting tools.
 
 **Operational Efficiency with AI**
+
 - Automated Inventory Management: AI optimizes stock levels, reducing overstock and stockouts.
 - Predictive Supply Chain Management: Enhance supply chain efficiency with AI-powered predictive analytics.
 
 **Enhancing Customer Experience**
+
 - Chatbots and Virtual Assistants: Deploy AI chatbots for efficient and personalized customer interactions.
 - Visual Search Capabilities: Implement AI for image-based product searches, enhancing user experience.
 
 ---
 
 ### Impact Analysis: AI in E-commerce
+
 #### How AI Solutions Drive Business Success
 
 Explore the profound impact of AI on various aspects of e-commerce:
@@ -62,6 +68,7 @@ Explore the profound impact of AI on various aspects of e-commerce:
 ---
 
 ### AI and the Future of E-commerce
+
 #### Staying Ahead in the Digital Marketplace
 
 Discover how AI is shaping the future of e-commerce:
@@ -72,6 +79,7 @@ Discover how AI is shaping the future of e-commerce:
 ---
 
 ### Educational Insights
+
 #### Empowering Your Team with AI Knowledge
 
 Gain insights into the integration of AI in e-commerce:
@@ -82,7 +90,7 @@ Gain insights into the integration of AI in e-commerce:
 ---
 
 ### Join the AI Revolution in E-commerce
+
 #### Innovate and Thrive with Constient.ai
 
 Partner with Constient.ai and step into the future of e-commerce. Our AI-driven solutions are not just about enhancing your current operations; they're about setting new benchmarks in online retail excellence.
-

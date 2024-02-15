@@ -2,14 +2,15 @@
 banner:
   image: "/images/waves.svg"
   title: "AI-driven Advertising"
-  content: "Partner with Constient.ai to embrace the future of advertising. Our AI-driven solutions set new standards in advertising effectiveness, preparing your business for the evolving digital landscape."
   button:
     enable: true
     label: "Request a proposal"
     link: "https://calendly.com/constient-ai/30min"
 ---
 
-Welcome to Constient.ai, where cutting-edge AI technology meets deep advertising expertise. Our AI-driven solutions are crafted to transform your advertising strategies and campaigns, maximizing effectiveness and driving business growth.
+Partner with Constient.ai to embrace the future of advertising.
+
+At Constient.ai cutting-edge AI technology meets deep advertising expertise. Our AI-driven solutions are crafted to transform your advertising strategies and campaigns, maximizing effectiveness and driving business growth.
 
 ### Why AI in Advertising?
 
