@@ -3,9 +3,9 @@ title: "Harnessing Retrieval-Augmented Generation for Business Innovation"
 meta_title: "Harnessing Retrieval-Augmented Generation for Business Innovation"
 description: "The era of retrieval-augmented generation marks a significant leap towards more intelligent, efficient, and dynamic use of AI in business. By leveraging the power of RAG, companies can significantly reduce operational costs and open new avenues for revenue expansion. "
 date: 2024-01-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/rag-cover.png"
 categories: ["Data", "Business"]
-author: "Allabaksh Shahul"
+author: "Vivek Durai"
 tags: ["nlp", "chatbots", "rag", "knowledge-base"]
 draft: false
 ---

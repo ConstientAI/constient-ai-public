@@ -3,7 +3,7 @@ title: "The Growing Importance of Natural Language Processing (NLP) in Business"
 meta_title: "The Role of Natural Language Processing in Modern Business"
 description: "Explore how Natural Language Processing is transforming business operations, customer service, and decision-making by providing unprecedented insights and automation."
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/nlp-cover.png"
 categories: ["Application", "Text"]
 author: "Allabaksh Shahul"
 tags: ["nlp", "chatbots", "sentiment-analysis"]
